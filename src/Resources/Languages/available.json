@@ -1,0 +1,12 @@
+[
+    {
+        "tag": "en",
+        "name": "English",
+        "IsRTL": false
+    },
+    {
+        "tag": "ar",
+        "name": "العربية",
+        "IsRTL": true
+    }
+]
